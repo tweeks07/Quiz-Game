@@ -1,0 +1,13 @@
+.start button {
+    font-size: 25px;
+    font-weight: 500;
+    color: violet;
+    padding: 15px 30px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+}
+
+
